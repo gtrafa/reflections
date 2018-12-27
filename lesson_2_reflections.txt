@@ -1,0 +1,8 @@
+# Este arquivo é dedicado a 3ª aula do curso
+
+* git init: cria os arquivo para o controle de versão da pasta;
+
+* git status: retorna o status do repositorio
+
+!! nesse aula será criado um repositório do zero.
+

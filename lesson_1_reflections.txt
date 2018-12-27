@@ -1,0 +1,24 @@
+ # documentos com reflexões sobre comandos do git
+
+* git diff file_1 file_2: permite descobrir quais as modificações introduzidas 
+entre duas versões.
+
+* git log: show the log of modifications;
+* git log --stat: show the log of modifications + the number of modificatios;
+
+* git checkout: permite tornar uma versão especifica a versão atual e poder 
+execut-la;
+
+* git commit: 1 sempre q houver uma mudança logica (texto, codigo), durante deferentes etapas
+- Pros VS Cons git e gdocs. Pro: salva automático,Con: muitas versões pouco relevantes. Git_Pros: o usuario faz de acordo com a necessidade, Git_Cons: o usuariotem q ficar atento. 
+
+* git clone repositorio_url: permite clonar um repositorio para trabalho;
+
+?? pq git permite salvar varios arquivos em um mesmo comit, enquanto google docs apenas um arquivo por vez. 
+Resp: pq um comit pode afetar diversos arquivos de só uma vez.
+
+?? de q modo o controle de versão pode oferecer mais segurança: ele permite q vc pode executar versões anteriores de seus projetos, recuperá-las e descobir qdo novos comits impactaram o funcionamento.
+
+?? quero usar o git para fazer o controle de versão dos meus projetos e poder contribuir para projetos opensource.
+
+
