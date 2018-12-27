@@ -7,6 +7,8 @@
 * git add file_1, file_N...: adiciona arquivos a staging area;
 
 * git reset file_name: remove arquivos da stage area;
+ 
+* git commit: escrever como se fosse um comando.  (resumo das ações realizadas)
 
 !! nesse aula será criado um repositório do zero.
 
