@@ -10,7 +10,24 @@
  
 * git commit: escrever como se fosse um comando.  (resumo das ações realizadas)
 
+* git status: mostra o status dos arquivos: (moficações ou não)
+
+* git diff: compara os arquivos na staging area e no working directory.
+
+* git diff --staged: compara os arquivos na stage area e no repositiorio
+
+* git diff comit_1 comit_2: compara dois arquivos 
+
+* git reset --hard: (cuidado -   apaga as modificações na stage area e no working directory)
+
+
 !! nesse aula será criado um repositório do zero.
 
 ?? qual a diferença entre a staging area, diretorio de trabalho e o repositorio??
-repositorio << working directory << staging area (contém os arquivos q foram trabalhados mais recentemente.).
+repositorio  << working directory << staging area (contém os arquivos q foram trabalhados mais recentemente.).
+
+?? como posso utilizar o stage area antes de fazer um commit?
+- ele permite saber q modificações ja foram feitas  e se elas já foram adicionadas ao repositorio
+
+
+
