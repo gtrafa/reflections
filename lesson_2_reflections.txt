@@ -20,6 +20,7 @@
 
 * git reset --hard: (cuidado -   apaga as modificações na stage area e no working directory)
 
+* git log --graph --oneline master branch_checked: mostra um grafo com as alterações me 
 
 !! nesse aula será criado um repositório do zero.
 
