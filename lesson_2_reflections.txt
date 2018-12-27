@@ -4,5 +4,11 @@
 
 * git status: retorna o status do repositorio
 
+* git add file_1, file_N...: adiciona arquivos a staging area;
+
+* git reset file_name: remove arquivos da stage area;
+
 !! nesse aula será criado um repositório do zero.
 
+?? qual a diferença entre a staging area, diretorio de trabalho e o repositorio??
+repositorio << working directory << staging area (contém os arquivos q foram trabalhados mais recentemente.).
