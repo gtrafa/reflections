@@ -33,6 +33,15 @@
 
 * git merge main_branch toMerge_branch
 
+* git show commit_id (number): mostra a relação entre o commit escolhido e seu
+pai.
+
+* git checkout -b <branch> <sha>: restaura o branch deletado, mas vc precisa do sha (Delete branch <your-branch> (was sha),q é um número.
+
+* git reflog: log mais detalhado;
+
+* git reset --merge ORIG_HEAD: Restaura os arquivos para um ponto antes do merge;
+
 !! nesse aula será criado um repositório do zero.
 
 ?? qual a diferença entre a staging area, diretorio de trabalho e o repositorio??
@@ -42,6 +51,8 @@ repositorio  << working directory << staging area (contém os arquivos q foram t
 - ele permite saber q modificações ja foram feitas  e se elas já foram adicionadas ao repositorio
 
 ?? qual a vantagem de se poder criar branches: eles pertimitem criar funcionalidades extras ou projetos paralelos sem q o desenvolvimento do ramo principal seja interrompido.
+
+?? mesclar dois branches é uma tarefa complicada, q deve ser feita com atenção
 
 
 
