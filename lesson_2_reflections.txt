@@ -20,16 +20,11 @@
 
 * git reset --hard: (cuidado -   apaga as modificações na stage area e no working directory)
 
-<<<<<<< HEAD
 * git log --graph --oneline branch_master  branch_second: mostra um grafo com as alterações me 
-||||||| merged common ancestors
-=======
 
 * git branch: mostra os branches criados/existentes 
 
 * git branch new_branch_name: permite criar um novo branch.
-
->>>>>>> second-thoughts
 
 * git merge main_branch toMerge_branch
 
