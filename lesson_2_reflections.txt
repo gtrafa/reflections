@@ -20,7 +20,15 @@
 
 * git reset --hard: (cuidado -   apaga as modificações na stage area e no working directory)
 
+<<<<<<< HEAD
 * git log --graph --oneline master branch_checked: mostra um grafo com as alterações me 
+||||||| merged common ancestors
+=======
+* git branch: mostra os branches criados/existentes 
+
+* git branch new_branch_name: permite criar um novo branch.
+
+>>>>>>> second-thoughts
 
 !! nesse aula será criado um repositório do zero.
 
@@ -29,6 +37,8 @@ repositorio  << working directory << staging area (contém os arquivos q foram t
 
 ?? como posso utilizar o stage area antes de fazer um commit?
 - ele permite saber q modificações ja foram feitas  e se elas já foram adicionadas ao repositorio
+
+?? qual a vantagem de se poder criar branches: eles pertimitem criar funcionalidades extras ou projetos paralelos sem q o desenvolvimento do ramo principal seja interrompido.
 
 
 
