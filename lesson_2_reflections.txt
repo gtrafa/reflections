@@ -49,5 +49,9 @@ repositorio  << working directory << staging area (contém os arquivos q foram t
 
 ?? mesclar dois branches é uma tarefa complicada, q deve ser feita com atenção
 
+?? pros e cons de fazer mesclagem automática e manual:
+automática: agiliza o trabalho e simplifica as tarefas qdo não eh necessario diferenciar detalhes.
+manual: melhor para entender qdo a diferença está em detalhes, mas aumenta muito o trabalho se for sempre aplicada, pq a tarefa de analisar diferenças consome muito tempo.
+
 
 
