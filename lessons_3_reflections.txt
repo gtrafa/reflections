@@ -23,3 +23,5 @@ branches: são mudanças q divergem do ramo principal(master branch) para testar
 
 !!!when would you want to create a remote repository rather than keeping all your work local??
 - when you have more than one one individual that contribuites to the same project.
+
+!!! mudaças online on github. oq acontece qdo os repositorios local e on github forem combinados
