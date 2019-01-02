@@ -3,6 +3,8 @@
 * git push origin master: manda para o github;
 
 * git pull origin master: pega os arquivos direto do github;
+ 
+!!! qdo fazer alterações num branch separado.. qdo for trabalhar numa feature oufazer testes q podem ou não ser adicionados ao sistema principal. Mas sem q isso trave o repositorio master.
 
 !!! como colaborar sem o Git ou GitHub?? seria muito trabalhoso, pq eu teria q 
 q ficar fazendo o gerênciamento de versões de forma manual. Escolhendo e verificando se há conflitos de forma manual. 
