@@ -4,6 +4,9 @@
 
 * git pull origin master: pega os arquivos direto do github;
 
+!!! como colaborar sem o Git ou GitHub?? seria muito trabalhoso, pq eu teria q 
+q ficar fazendo o gerênciamento de versões de forma manual. Escolhendo e verificando se há conflitos de forma manual. 
+
 !!! vantagens de se possuir as ultimas copias dos repositórios remotos amarzenadas localmente: Isso permite conhecer o historico de modicificações e como o repositório local difere do remoto;
 
 !!!! reflextions on fork (bifurcações, clones and branches)
