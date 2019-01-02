@@ -1,2 +1,11 @@
-when would you want to create a remote repository rather than keeping all your work local??
+* git remote 
+
+* git push origin master: manda para o github;
+
+* git pull origin master: pega os arquivos direto do github;
+
+!!!! Pull automático versus manual. O automático pode ser util para manter os arquivos no repositorio local sempre atualizado, mas pode constantemente fazer pulls q não acrescentam ao trabalho atual.
+
+
+!!!when would you want to create a remote repository rather than keeping all your work local??
 - when you have more than one one individual that contribuites to the same project.
