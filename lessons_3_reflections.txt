@@ -4,6 +4,13 @@
 
 * git pull origin master: pega os arquivos direto do github;
 
+!!!! reflextions on fork (bifurcações, clones and branches)
+fork(bifurcaçoes): copia um repositorio no github de um usuário para o seu e a  partir dele pode se rastrear o responsável original pelo projeto;
+
+clone: apenas faz uma copias de um repositorio para seu diretorios local.
+
+branches: são mudanças q divergem do ramo principal(master branch) para testar, ou experimentar novas funcionalidades;
+
 !!!! Pull automático versus manual. O automático pode ser util para manter os arquivos no repositorio local sempre atualizado, mas pode constantemente fazer pulls q não acrescentam ao trabalho atual.
 
 
